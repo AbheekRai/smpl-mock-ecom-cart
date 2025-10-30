@@ -30,5 +30,4 @@ Client runs on http://localhost:5173 (Vite default)
 ## Notes
 - Tailwind is configured for the client. If your environment blocks PostCSS/Tailwind install, you can use the plain CSS fallback in `client/src/index.css` (already included).
 - The server will seed sample products automatically on first run.
-
-Commit history and small edits will make this look human-made. Good luck!
+  
